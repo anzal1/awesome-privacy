@@ -1251,6 +1251,7 @@ This section is dedicated to some tools that may help users analyze the privacy 
 - [MAT2](https://github.com/jvoisin/mat2) - Removes metadata from images, documents, audio and other files. Command line tool with file manager integrations.
 - [Metadata Cleaner](https://gitlab.com/rmnvgr/metadata-cleaner) - Simple desktop app to view and remove file metadata, built on MAT2.
 - [Mobile Verification Toolkit](https://github.com/mvt-project/mvt) - Forensic tool from Amnesty International that checks Android and iOS devices for traces of spyware such as Pegasus.
+- [Panoply](https://github.com/anzal1/panoply) - Desktop file tools (PDF, image, video and audio, OCR, ID photos) that run on your device with no account, telemetry or uploads, instead of online converters that take your files; open source (MIT or Apache-2.0) for Windows, macOS and Linux.
 
 ### Android
 
